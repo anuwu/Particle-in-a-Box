@@ -1,0 +1,6 @@
+diffeq = 0.00066621
+prob = 0.98295705
+loss = 0.02046557
+eigE = 19.73920203
+
+Used (1/prob + prob^4)/100 regularisation term.

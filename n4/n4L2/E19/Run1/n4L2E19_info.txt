@@ -1,0 +1,6 @@
+diffeq = 0.00011447
+prob = 0.99926729
+loss = 0.00011501
+eigE = 19.7393465
+
+in 20,000 iterations

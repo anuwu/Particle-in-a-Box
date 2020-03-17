@@ -3,4 +3,4 @@ prob = 1.0000801
 loss = 1250.01594721
 eigE = 44.41321105
 
-With (1-prob)**2 + 1000/prob + 250prob**4
+With (1-prob)**2 + 1000/prob + 250prob**4w

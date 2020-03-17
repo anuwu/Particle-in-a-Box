@@ -1,0 +1,6 @@
+diffeq = 0.53378958
+prob = 1.00822411
+loss = 311.80364741
+eigE = 19.73891895
+
+np.mean(diffeq**2) + (1-prob)**2 + (120/prob + 120*prob) + (30/prob**2 + 30*prob**2) + (5/prob**3 + 5*prob**3) + (5/(8*prob**4) + (5/8)*prob**4) as loss

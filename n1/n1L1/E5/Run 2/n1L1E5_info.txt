@@ -1,0 +1,8 @@
+diffeq = 0.00310895
+prob = 0.99992655
+loss = 31.87810917
+eigE = 4.93489175
+diffeqDiff = 6.614e-05
+
+np.abs(diffeqDiff) < 10**-4 and diffeqDiff < 0 as condition
+objCase = 8

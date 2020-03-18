@@ -4,4 +4,4 @@ loss = 31.88716008
 eigE = 177.65288972
 diffeqDiff = -7.749e-05
 
-In 59,000 iterations/
+In 59,000 iterations

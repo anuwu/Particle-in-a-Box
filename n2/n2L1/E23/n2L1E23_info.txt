@@ -1,0 +1,7 @@
+diffeq = 0.00308683
+prob = 1.00030153
+loss = 51.87809139
+eigE = 19.73921193
+diffeqDiff = 0.001993
+
+Worked with new exit conditions.

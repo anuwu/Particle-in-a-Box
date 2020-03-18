@@ -1,0 +1,13 @@
+diffeq = 0.00848
+prob = 1.00003234
+loss = 31.88348005
+eigE = 8.77298051
+diffeqDiff = -0.00587099
+
+Done in 19300 iterations.
+brkCount2_iter = 11900 brkCount2 = 13 brkCount2_prob = 0.9997109518835746
+brk3Lim = 23800 brkCount3_iter = 12800 brkCount3 = 35 brkCount3_prob = 0.9999891231586612
+brk4Lim = 19200 brkCount4_iter = -1 brkCount4 = 0 brkCount4_prob = -1
+endLim = -1
+
+Notice how brk4Lim is lesser than brk3Lim ---> which does not make sense logically.

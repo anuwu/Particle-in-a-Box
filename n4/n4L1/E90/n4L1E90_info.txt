@@ -1,0 +1,10 @@
+diffeq = 0.00205296
+prob = 0.99973567
+loss = 31.87705577
+eigE = 78.95745357
+diffeqDiff = -4.9e-05
+
+Total = 17700
+brkCount2_iter = 14700 brkCount2 = 7 brkCount2_prob = 0.9966974478660131
+brkCount3_iter = 16400 brkCount3 = 5 brkCount3_prob = 0.9997295753498489
+brkCount4_iter = 17100 brkCount4 = 5 brkCount4_prob = 0.9996559078532699

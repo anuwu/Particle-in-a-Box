@@ -1,0 +1,11 @@
+diffeq = 0.02673014
+prob = 0.99402419
+loss = 31.90317293
+eigE = 177.65291328
+diffeqDiff = -9.034e-05
+
+
+Finished at 53100 iterations.
+brkCount2_iter = 28300 brkCount2 = 32 brkCount2_prob = 0.91053322572699
+brkCount3_iter = 29400 brkCount3 = 22 brkCount3_prob = 0.9284945019983446
+brkCount4_iter = 37200 brkCount4 = 5 brkCount4_prob = 0.9812618907510265

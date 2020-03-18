@@ -1,0 +1,10 @@
+diffeq = 0.00041167
+prob = 1.00331165
+loss = 51.87596007
+eigE = 8.7729798
+diffeqDiff = 5.964e-05
+
+brkCount2_iter = 3900 brkCount2 = 13 brkCount2_prob = 0.9992333858918809
+brk3Lim = 7800 brkCount3_iter = 5200 brkCount3 = 35 brkCount3_prob = 0.9997822512741565
+brk4Lim = 10400 brkCount4_iter = 8700 brkCount4 = 12 brkCount4_prob = 0.9995620221759189
+endLim = 17400

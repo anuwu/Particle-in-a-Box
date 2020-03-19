@@ -1,0 +1,7 @@
+diffeq = 0.00088052
+prob = 0.99997886
+loss = 51.87588109
+eigE = 1.77656261
+diffeqDiff = -1.801e-05
+
+1/(10**8.5)*(1/(E-1.5)**4 + 1/(E-3)**4) as Ereg along with EregDer curve

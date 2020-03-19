@@ -1,0 +1,8 @@
+diffeq = 0.01485776
+prob = 0.99984679
+loss = 51.88985899
+eigE = 0.99426464
+diffeqDiff = -1.778e-05
+
+No eigenvalue in this range only.
+Floor exponent.

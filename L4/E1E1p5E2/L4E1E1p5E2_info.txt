@@ -1,0 +1,7 @@
+diffeq = 0.00047564
+prob = 1.00103076
+loss = 51.87552952
+eigE = 1.23366393
+diffeqDiff = 7.19e-06
+
+Got for n=2

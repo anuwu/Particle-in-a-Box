@@ -1,0 +1,7 @@
+diffeq = 0.00038797
+prob = 1.00022207
+loss = 51.87539099
+eigE = 1.77662279
+diffeqDiff = -7.567e-05
+
+Used 1/(10**8.5)*(1/(E-1.5)**4 + 1/(E-3)**4) as energy regularisation.

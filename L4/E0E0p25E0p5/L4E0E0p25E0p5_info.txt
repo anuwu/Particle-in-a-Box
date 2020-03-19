@@ -1,0 +1,8 @@
+diffeq = 0.00063494
+prob = 0.99999545
+loss = 51.87563494
+eigE = 0.30850771
+diffeqDiff = -2.129e-05
+
+n=1
+Floor exponent.

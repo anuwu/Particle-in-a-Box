@@ -1,0 +1,7 @@
+diffeq = 0.00031606
+prob = 0.99999322
+loss = 51.87531607
+eigE = 0.78963588
+diffeqDiff = -7.38e-06
+
+Used latest Ereg.

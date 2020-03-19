@@ -1,0 +1,8 @@
+diffeq = 0.01034694
+prob = 1.00012857
+loss = 51.88534903
+eigE = 2.77611901
+diffeqDiff = 0.00874991
+
+n=3
+Used continuous exponent.

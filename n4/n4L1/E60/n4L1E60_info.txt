@@ -1,0 +1,7 @@
+diffeq = 73.45739324
+prob = 0.55470452
+loss = 144.72796133
+eigE = 55.94965762
+diffeqDiff = -2.02e-06
+
+Failed with regularisation.

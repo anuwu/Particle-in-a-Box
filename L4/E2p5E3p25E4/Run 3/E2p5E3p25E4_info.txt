@@ -1,0 +1,8 @@
+diffeq = 0.00077556
+prob = 1.00658488
+loss = 51.8779369
+eigE = 1.23372795
+diffeqDiff = 0.00047511
+
+n=2
+No energy regularisation.

@@ -1,0 +1,7 @@
+diffeq = 0.28852535
+prob = 0.99745863
+loss = 52.16385016
+eigE = 6.01282236
+diffeqDiff = -7.058e-05
+
+Failed.

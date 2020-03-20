@@ -1,7 +1,0 @@
-diffeq = 0.00205243
-prob = 0.99998106
-loss = 31.87705244
-eigE = 19.74715786
-diffeqDiff = -9.816e-05
-
-Done at 6500 iterations.

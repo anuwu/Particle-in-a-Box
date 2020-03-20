@@ -1,6 +1,0 @@
-diffeq = 0.00153584
-prob = 0.99892692
-loss = 1.25153987
-eigE = 44.41318379
-
-Probably with 100/prob + 25prob**4 term

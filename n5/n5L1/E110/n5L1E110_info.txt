@@ -1,6 +1,0 @@
-diffeq = 0.00264945
-prob = 1.0001988
-loss = 31.87765104
-eigE = 123.37005569
-
-over 100,000 iterations. Can't keep recalling adam.

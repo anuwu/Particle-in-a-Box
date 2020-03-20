@@ -1,7 +1,0 @@
-diffeq = 0.08996356
-prob = 0.9966577
-loss = 251.8059738
-eigE = 35.08968912
-
-Used [1,32,32,32,1] layer
-Loss = 20*np.mean(diffeq**2) + 100*(1 - prob)**2 + 200/prob + (200/4)*(prob**4)

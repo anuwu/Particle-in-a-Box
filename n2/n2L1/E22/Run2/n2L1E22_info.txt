@@ -1,7 +1,0 @@
-diffeq = 0.00169702
-prob = 0.99999527
-loss = 31.87669702
-eigE = 19.73969558
-diffeqDiff = -4.044e-05
-
-Using brkcount of 5.

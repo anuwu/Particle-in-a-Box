@@ -1,6 +1,0 @@
-diffeq = 0.91221793
-prob = 0.94933316
-loss = 269.78635394
-eigE = 35.10063619
-
-used 20*mean + 100*(1 - prob)**2 + 200/prob + (200/4)*(prob**4) as loss

@@ -1,6 +1,0 @@
-diffeq = 0.00097141
-prob = 0.99970221
-loss = 31.87597497
-eigE = 78.95683344
-
-Adaptive with 39000 iterations.

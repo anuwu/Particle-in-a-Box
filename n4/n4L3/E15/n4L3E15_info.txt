@@ -1,8 +1,0 @@
-diffeq = 0.05394668
-prob = 0.99996728
-loss = 1250.05394947
-eigE = 8.92253638
-
-100*(1 - prob)**2 + 1000/prob + 250*(prob**4)
-Had initially started with the target of achieving n=5 value. However, prob reached 1 very quickly because the weight of the diffeq term was small
-in compare to the prob regularisation terms in the loss function. A balacne between the two terms need to be maintained.

@@ -1,7 +1,0 @@
-diffeq = 0.0002358
-prob = 0.99996698
-loss = 1250.02358307
-eigE = 13.70769649
-
-Used 100*np.mean(diffeq**2) + 100*(1 - prob)**2 + 1000/prob + 250*(prob**4) loss function.
-Notice how diffeq is small!

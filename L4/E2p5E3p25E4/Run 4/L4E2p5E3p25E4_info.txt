@@ -1,0 +1,7 @@
+diffeq = 0.00151106
+prob = 0.99997083
+loss = 51.87651236
+eigE = 2.77588061
+diffeqDiff = -4.358e-05
+
+Oopsie! This is with the correct eigenvalue regularization.

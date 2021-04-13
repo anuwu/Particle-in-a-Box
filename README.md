@@ -2,7 +2,7 @@
 
 ![title](Docs/schrodinger.png)
 
-Solving Schrodinger's Equation with a Neural Network using numerical integration and automatic differentiation. The steps to run the python [notebook](kitchin.ipynb) is self-explanatory. All input variables are accepted as forms in the Google Colab notebook. For complete details on the working and theoretical background, please see the report pdf file [here](Docs/Report.pdf).
+Solving Schrodinger's Equation with a Neural Network using numerical integration and automatic differentiation. The steps to run the python [notebook](kitchin.ipynb) is self-explanatory. All input variables are accepted as forms in the Google Colab notebook.
 
 
 The neural network is successfully able to solve the Particle-in-a-Box potential for the first few eigen-energies and even upto the fifth eigen-energy.
